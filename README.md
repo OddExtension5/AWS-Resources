@@ -1,6 +1,6 @@
 # AWS Resources
 
-A curated list of resources on AWS including some aws certitication resources. All thanks to Chad Smith for his wonderfull class on various section of AWS that makes possible to make a important lists of resources based on your given slides and resources during the class.
+A curated list of resources on AWS including some aws certitication resources. All thanks to Chad Smith for his wonderful class on various section of AWS that makes possible to gist an important list of resources based on his given slides and resources during the class for my own preparation of AWS CERTIFICATION.
 
 
 ## ONLINE TRAINING
