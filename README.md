@@ -13,3 +13,11 @@ A curated list of resources on AWS including some aws certitication resources. A
 6. [AWS Architecture Automation and Infrastructure Deployment](https://learning.oreilly.com/live-training/courses/aws-architecture-automation-and-infrastructure-deployment/0636920435723/)
 7. [AWS Certified SysOps Administrator (Associate) Crash Course](https://learning.oreilly.com/live-training/courses/aws-certified-sysops-administrator-associate-crash-course/0636920393399/)
 8. [AWS Certified Security - Specialty Crash Course](https://learning.oreilly.com/live-training/courses/aws-certified-security-specialty-crash-course/0636920392965/)
+
+## Certification Guide
+
+#### AWS Certified Cloud Practitioner
+
+1. [AWS Certified Cloud Parctitioner Course by Richard A.Jones](https://learning.oreilly.com/videos/aws-certified-cloud/9780135175507/9780135175507-accp_01_02_01_00)
+2. [AWS Certified Cloud Practitioner (CLF-C01) Cert Guide, First Edition](https://learning.oreilly.com/library/view/aws-certified-cloud/9780135266960/)
+3. [AWS Certified Cloud Practitioner Study Guide](https://learning.oreilly.com/library/view/aws-certified-cloud/9781119490708/)
