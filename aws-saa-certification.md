@@ -52,7 +52,7 @@
 
 
 #### Great catalog of launchable solutions in AWS:
-https://aws.amazon.com/solutions/
++ https://aws.amazon.com/solutions/
 
 
 # Security
@@ -78,8 +78,7 @@ https://aws.amazon.com/solutions/
 
 # Cost Optimization
 
-#### Service pricing can be found as follows
-+ https://aws.amazon.com/<servicename>/pricing
+#### Service pricing can be found as follows **``https://aws.amazon.com/<servicename>/pricing``**
 
 
 # Operational Excellence
